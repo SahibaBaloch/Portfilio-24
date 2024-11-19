@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="bg-blue-500 p-4 flex items-center justify-between">
 
-      <div className="text-indigo-800 text-xl font-bold">
+      <div className="text-indigo-700 text-xl font-bold">
         Sahiba Baloch
       </div>
 
